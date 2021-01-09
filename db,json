@@ -1,0 +1,99 @@
+{
+  "countries": [
+    {
+      "id": "ae",
+      "name": "United Arab Emirates",
+      "flag": "https://raw.githubusercontent.com/google/region-flags/gh-pages/png/AE.png"
+    },
+    {
+      "id": "ar",
+      "name": "Argentina",
+      "flag": "https://raw.githubusercontent.com/google/region-flags/gh-pages/png/AR.png"
+    },
+    {
+      "id": "au",
+      "name": "Australia",
+      "flag": "https://raw.githubusercontent.com/google/region-flags/gh-pages/png/AU.png"
+    },
+    {
+      "id": "ch",
+      "name": "Switzerland",
+      "flag": "https://raw.githubusercontent.com/google/region-flags/gh-pages/png/CH.png"
+    },
+    {
+      "id": "br",
+      "name": "Brazil",
+      "flag": "https://raw.githubusercontent.com/google/region-flags/gh-pages/png/BR.png"
+    },
+    {
+      "id": "cn",
+      "name": "China",
+      "flag": "https://raw.githubusercontent.com/google/region-flags/gh-pages/png/CN.png"
+    },
+    {
+      "id": "cy",
+      "name": "Cyprus",
+      "flag": "https://raw.githubusercontent.com/google/region-flags/gh-pages/png/CY.png"
+    },
+    {
+      "id": "gb",
+      "name": "United Kingdom",
+      "flag": "https://raw.githubusercontent.com/google/region-flags/gh-pages/png/GB.png"
+    },
+    {
+      "id": "de",
+      "name": "Germany",
+      "flag": "https://raw.githubusercontent.com/google/region-flags/gh-pages/png/DE.png"
+    },
+    {
+      "id": "eu",
+      "name": "European Union",
+      "flag": "https://raw.githubusercontent.com/google/region-flags/gh-pages/png/EU.png"
+    },
+    {
+      "id": "gr",
+      "name": "Greece",
+      "flag": "https://raw.githubusercontent.com/google/region-flags/gh-pages/png/GR.png"
+    },
+    {
+      "id": "ng",
+      "name": "Nigeria",
+      "flag": "https://raw.githubusercontent.com/google/region-flags/gh-pages/png/NG.png"
+    },
+    {
+      "id": "se",
+      "name": "Sweden",
+      "flag": "https://raw.githubusercontent.com/google/region-flags/gh-pages/png/SE.png"
+    },
+    {
+      "id": "us",
+      "name": "United States",
+      "flag": "https://raw.githubusercontent.com/google/region-flags/gh-pages/png/US.png"
+    },
+    {
+      "id": "za",
+      "name": "South Africa",
+      "flag": "https://raw.githubusercontent.com/google/region-flags/gh-pages/png/ZA.png"
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "name": "hello",
+      "barcode": "",
+      "ingredient_ids": [ 1, 2 ]
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "Salt",
+      "details": "Some ingredient details for salt"
+    },
+    {
+      "id": 2,
+      "name": "Pepper",
+      "details": "Some ingredient details for pepper"
+    }
+  ]
+}
