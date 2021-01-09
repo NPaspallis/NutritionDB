@@ -1,13 +1,24 @@
 {
-  "Entry": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
-    "comments": "Comment[]"
+  "continent": {
+    "id": "string",
+    "name": "string",
+    "wikipedia": "string"
   },
-  "Comment": {
-    "body": "string",
-    "entry": "Entry"
+  "country": {
+    "id": "string",
+    "name": "string",
+    "continent": "continent",
+    "flag": "string"
+  },
+  "item": {
+    "id": "int",
+    "name": "string",
+    "barcode": "string",
+    "ingredients": "ingredient[]"
+  },
+  "ingredient": {
+    "id": "int",
+    "name": "string",
+    "details": "string"
   }
 }
